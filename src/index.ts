@@ -1,6 +1,6 @@
-import { PluginObj } from "babel-core";
+import { PluginObj } from 'babel-core';
 
-const { transform } = require("@babel/core");
+const { transform } = require('@babel/core');
 
 const src = '1 + 2 / 3';
 
