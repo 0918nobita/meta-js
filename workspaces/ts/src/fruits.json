@@ -1,0 +1,17 @@
+{
+  "banana": {
+    "price": 200,
+    "color": "#ffd800",
+    "displayName": "ばなな"
+  },
+  "apple": {
+    "price": 150,
+    "color": "#e9002c",
+    "displayName": "りんご"
+  },
+  "orange": {
+    "price": 100,
+    "color": "#ff7e00",
+    "displayName": "みかん"
+  }
+}
