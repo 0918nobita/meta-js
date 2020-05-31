@@ -1,6 +1,7 @@
-import { PluginObj } from 'babel-core';
+import { PluginObj } from '@babel/core';
+import core = require('@babel/core');
 
-const { transform } = require('@babel/core');
+const { transform } = core;
 
 const src = '1 + 2 / 3';
 
@@ -15,5 +16,5 @@ const plugin = ({ types }: { types: any }): PluginObj => ({
   }
 });
 
-const { code } = transform(src, { plugins: [plugin] });
+const { code } = transform(src, { plugins: [plugin] })!;
 console.log(code);
