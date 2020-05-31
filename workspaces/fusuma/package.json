@@ -1,0 +1,17 @@
+{
+    "name": "@front-end/fusuma",
+    "version": "1.0.0",
+    "author": "0918nobita <nobita.0918@gmail.com>",
+    "license": "MIT",
+    "private": true,
+    "scripts": {
+        "build": "fusuma build",
+        "dev": "fusuma start"
+    },
+    "devDependencies": {
+        "fusuma": "^1.16.0"
+    },
+    "dependencies": {
+        "react": "^16.13.1"
+    }
+}

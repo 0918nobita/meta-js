@@ -1,0 +1,21 @@
+meta:
+    url:
+    title: Idris ではじめる依存型プログラミング
+    thumbnail:
+    description:
+    sns:
+        - twitter
+slide:
+    loop: false
+    sidebar: true
+    targetBlank: true
+    showIndex: false
+    isVertical: false
+    code:
+        languages:
+            - javascript
+        plugins: []
+        theme: default
+extends:
+    js:
+    css:

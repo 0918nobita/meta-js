@@ -6,4 +6,5 @@
 | :--- | :--- |
 | audio | Web Audio API |
 | babel | Babel |
-| cycle-js | Cycle.js |
+| cycle-js | Cycle.js を用いてカウンタを実装する |
+| fusuma | fusuma を用いて MDX からスライドを生成する |
