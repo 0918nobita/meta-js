@@ -1,0 +1,16 @@
+{
+    "name": "@front-end/babel",
+    "version": "0.1.0",
+    "author": "0918nobita",
+    "private": true,
+    "license": "MIT",
+    "dependencies": {
+        "@babel/core": "^7.4.3",
+        "@babel/parser": "^7.4.3"
+    },
+    "devDependencies": {
+        "@types/babel__core": "^7.1.7",
+        "@types/node": "^11.13.7",
+        "typescript": "^3.4.5"
+    }
+}
